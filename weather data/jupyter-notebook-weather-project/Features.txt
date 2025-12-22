@@ -1,0 +1,10 @@
+Date - date of the day
+
+Max. - Maximum temperature of the day 
+Min. - Minimum Temperature of the day 
+Eve - Humidity in the Evening 
+Morn - Humidity in the Morning 
+Daily OR Rain - total MM of rain in a day
+PE OR ET - Evaporation of Water from the Surface ( High means more sunny day ) 
+
+Rainy Days ( Label )   - Rain(1) or Not(0) 
